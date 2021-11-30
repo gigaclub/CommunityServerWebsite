@@ -42,13 +42,16 @@ body {
     text-decoration: underline;
 }
 
-.subsubtitle a{
-    font-size:15px;
+#homebutton {
+    font-size: 37px;
+    color: orange;
+    font-weight: bold;
 }
 
-#subsubtitleactiv {
-    text-decoration: none;
+#activ {
     color: orange;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .maininformation-title {
@@ -56,24 +59,12 @@ body {
     margin-top: 3%;
 }
 
-.maininformation {
-    margin-left:17%;
-    margin-top: 4%;
-}
-
-.maininformation h2 {
-    color: red;
-    text-decoration: underline;
-}
-
-.maininformation h3 {
-    color: yellow;
-}
-
 .maininformation p {
-    color: white;
+    margin-left:17%;
+    margin-top: 5%;
 }
 
-.maininformation table {
-    margin-left:3%;
+.sidebar-bottom {
+    padding: 6px 8px 6px 25px;
+    margin-top: 100%;
 }
