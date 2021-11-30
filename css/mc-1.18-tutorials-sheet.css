@@ -62,14 +62,14 @@ body {
 }
 
 .maininformation {
-    margin-left:17%;
-    margin-top: 4%;
+    margin-left:18.5%;
+    margin-top: 2%;
 }
 
 .maininformation p {
     color: white;
 }
 
-.maininformation table {
-    margin-left:3%;
+.maininformation-video {
+    margin-left: 17%;
 }
