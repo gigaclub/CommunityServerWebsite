@@ -47,13 +47,13 @@ body {
     font-size: 37px;
 }
 
-#subtitleactiv {
-    text-decoration: none;
-    color: orange;
-}
-
 .subsubtitle a{
     font-size:15px;
+}
+
+#activ {
+    text-decoration: none;
+    color: orange;
 }
 
 .maininformation-title {
@@ -64,4 +64,12 @@ body {
 .maininformation {
     margin-left:17%;
     margin-top: 4%;
+}
+
+.maininformation p {
+    color: white;
+}
+
+.maininformation table {
+    margin-left:3%;
 }
