@@ -34,12 +34,13 @@ body {
     padding: 6px 8px 6px 25px;
     text-decoration: none;
     font-size: 25px;
-    color: #8e8e8e;
+    color: white;
     display: block;
 }
 
 .sidebar a:hover {
-    color: white;
+    color: black;
+    background-color: orange;
 }
 
 #homebutton {
@@ -48,6 +49,10 @@ body {
     color: orange;
     font-weight: bold;
 
+}
+
+#homebutton:hover {
+    color: black;
 }
 
 .maininformation-title {

@@ -34,12 +34,13 @@ body {
     padding: 6px 8px 6px 25px;
     text-decoration: none;
     font-size: 25px;
-    color: #8E8E8EFF;
+    color: white;
     display: block;
 }
 
 .sidebar a:hover {
-    color: white;
+    color: black;
+    background-color: orange;
 }
 
 #homebutton {
@@ -54,6 +55,10 @@ body {
 #subsubtitleactiv {
     text-decoration: none;
     color: orange;
+}
+
+#subsubtitleactiv:hover {
+    color: black;
 }
 
 .maininformation-title {
