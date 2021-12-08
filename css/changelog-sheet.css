@@ -40,12 +40,17 @@ body {
 
 .sidebar a:hover {
     color: black;
+    font-size: 28px;
     background-color: orange;
 }
 
 #homebutton {
     font-weight: bold;
     font-size: 37px;
+}
+
+#homebutton:hover {
+    font-size: 41px;
 }
 
 #subtitleactiv {
@@ -55,6 +60,7 @@ body {
 
 #subtitleactiv:hover {
     text-decoration: none;
+    font-weight: bold;
     color: black;
 }
 

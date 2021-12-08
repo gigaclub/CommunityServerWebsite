@@ -40,6 +40,7 @@ body {
 
 .sidebar a:hover {
     color: black;
+    font-size: 28px;
     background-color: orange;
 }
 
@@ -53,6 +54,7 @@ body {
 
 #homebutton:hover {
     color: black;
+    font-size: 41px;
 }
 
 .maininformation-title {

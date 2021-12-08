@@ -40,12 +40,17 @@ body {
 
 .sidebar a:hover {
     color: black;
+    font-size: 28px;
     background-color: orange;
 }
 
 #homebutton {
     font-weight: bold;
     font-size: 37px;
+}
+
+#homebutton:hover {
+    font-size: 41px;
 }
 
 .subsubtitle a{
@@ -57,7 +62,16 @@ body {
 }
 
 #subsubtitleactiv:hover {
+    font-weight: bold;
+}
+
+#subsubtitleactiv:hover {
     color: black;
+
+}
+
+.subsubtitle a:hover {
+    font-size: 18px;
 }
 
 .maininformation-title {
