@@ -1,5 +1,5 @@
 body {
-    background-color: #131417;
+    background-color: #222222;
     color: #f8f9fa;
     font-family: sans-serif;
 }
@@ -11,7 +11,7 @@ body {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #28282A;
+    background-color: #3B3B3B;
     overflow-x: hidden;
     padding-top: 20px;
 }
@@ -26,7 +26,7 @@ body {
 .sidebar h2 {
     padding: 6px 8px 6px 25px;
     text-decoration: none;
-    color: #fff;
+    color: #8E8E8EFF;
     display: block;
 }
 
@@ -34,12 +34,12 @@ body {
     padding: 6px 8px 6px 25px;
     text-decoration: none;
     font-size: 25px;
-    color: #fff;
+    color: #8E8E8EFF;
     display: block;
 }
 
 .sidebar a:hover {
-    text-decoration: underline;
+    color: white;
 }
 
 #homebutton {
@@ -52,7 +52,6 @@ body {
 }
 
 #activ {
-    text-decoration: none;
     color: orange;
 }
 

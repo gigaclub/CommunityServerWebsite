@@ -43,11 +43,13 @@ body {
 }
 
 #homebutton {
-    text-decoration: none;
-    font-size: 37px;
-    color: orange;
     font-weight: bold;
+    font-size: 37px;
+}
 
+#subtitleactiv {
+    text-decoration: none;
+    color: orange;
 }
 
 .maininformation-title {
@@ -55,7 +57,20 @@ body {
     margin-top: 3%;
 }
 
-.maininformation p {
-    margin-left:17%;
-    margin-top: 5%;
+.changelog {
+    margin: 20px;
+    font-family: "Courier New";
+    color: white;
+}
+
+.changelog dt {
+    font-size: 21px;
+}
+
+.changelog dd {
+    font-size: 18px;
+}
+
+.changelog li {
+    font-size: 18px;
 }
